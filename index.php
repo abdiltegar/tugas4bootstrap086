@@ -1,4 +1,4 @@
 <?php 
-include('praktikum_bootstrap.html');
+include('praktikum_jquery.html');
 
 ?>
